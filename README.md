@@ -1,0 +1,1 @@
+School project for the class JavaScript 1. where we built a webshop in TS that fetch products from an API and posts the order to the API. Made with with Ellinor Lindström and Pontus Ekberg, Dec 2023. 
